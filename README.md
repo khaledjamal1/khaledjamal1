@@ -1,7 +1,5 @@
 # Hi, I'm Khaled Jamal
 
----
-
 Welcome to my GitHub profile! I’m a full stack web developer from Iraq with a passion for crafting dynamic web applications. I work as a freelancer and am always exploring new technologies and tools.
 
 ## 🚀 About Me
@@ -28,6 +26,7 @@ I’m a versatile web developer with experience in building scalable and perform
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?&style=flat-square&logo=supabase&logoColor=white)
 
 - **Current Learning:**
+
   ![Rust](https://img.shields.io/badge/Rust-000000.svg?&style=flat-square&logo=rust&logoColor=white)
 
 ## 🌟 Current Projects
