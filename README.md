@@ -27,7 +27,7 @@ I’m a versatile web developer with experience in building scalable and perform
 
 - **Current Learning:**
 
-  ![Rust](https://img.shields.io/badge/Rust-000000.svg?&style=flat-square&logo=rust&logoColor=white)
+   ![Go](https://img.shields.io/badge/GO-00ADD8.svg?&style=flat-square&logo=go&logoColor=white&)
 
 ## 🌟 Current Projects
 
